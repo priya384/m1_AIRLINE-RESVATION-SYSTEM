@@ -25,18 +25,21 @@
    ### What is an airline reservation explain?
 
      An "aircraft reservation" could be a legitimate contract whereby an carrier embraces, 
-     in exchange for a certain sum of cash, to supply a situate to a particular traveler by plane on a particular flight from one indicated air terminal to another.
+     in exchange for a certain sum of cash, to supply a situate to a particular traveler by plane on a 
+     particular flight from one indicated air terminal to another.
   
   
   ## When
+   w
   ###
    In the late 1950s, American Airlines wanted a system that would allow real-time access to flight details in all of its offices,
    and the integration and automation of its   booking and ticketing processes.
    It introduced an electronic reservations system, Magnetronic Reservisor, in 1952.
    
   ## Where
+   It can be used in any devices(laptop & PC) which has a preloaded application and it  will be usefull for all type of users.
    
-   ## How
+  ## How
   ### How does airline reservation system work?
    - Aircraft reservation frameworks join aircraft plans, admission taxes, traveler  reservations and ticket records.
    - An airline's coordinate dispersion works inside their possess reservation framework, as well as pushing out data to the GDS.
