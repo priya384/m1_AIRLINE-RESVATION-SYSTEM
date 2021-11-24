@@ -16,6 +16,10 @@
    # 4W's 1-H
    
    ## Why
+   ### Why do we need an airline reservation system?
+   
+   - Flight Reservation Framework shoots up the deals of an carrier company and gives a competitive edge. 
+   - The essential reason for choosing flight reservation framework is to extend the number of bookings of the flight ticket.
    ## What
    ## When
    ## Where
