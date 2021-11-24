@@ -9,3 +9,23 @@
    
    
    # Defining Our System
+   
+   # SWOT Analysis
+   
+   
+   # 4W's 1-H
+   
+   ## Why
+   ## What
+   ## When
+   ## Where
+   ## How
+   
+   # Detailed Requirements
+   
+   
+   # High level Requirements
+   
+   # Low level Requirements
+   # Developed By
+
