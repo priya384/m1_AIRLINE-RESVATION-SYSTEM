@@ -15,15 +15,31 @@
    
    # 4W's 1-H
    
-   ## Why
+   # Why
    ### Why do we need an airline reservation system?
    
    - Flight Reservation Framework shoots up the deals of an carrier company and gives a competitive edge. 
    - The essential reason for choosing flight reservation framework is to extend the number of bookings of the flight ticket.
+ 
    ## What
-   ## When
-   ## Where
+   ### What is an airline reservation explain?
+
+     An "aircraft reservation" could be a legitimate contract whereby an carrier embraces, 
+     in exchange for a certain sum of cash, to supply a situate to a particular traveler by plane on a particular flight from one indicated air terminal to another.
+  
+  
+  ## When
+  ###
+   In the late 1950s, American Airlines wanted a system that would allow real-time access to flight details in all of its offices,
+   and the integration and automation of its   booking and ticketing processes.
+   It introduced an electronic reservations system, Magnetronic Reservisor, in 1952.
+   
+  ## Where
+   
    ## How
+  ### How does airline reservation system work?
+   - Aircraft reservation frameworks join aircraft plans, admission taxes, traveler  reservations and ticket records.
+   - An airline's coordinate dispersion works inside their possess reservation framework, as well as pushing out data to the GDS.
    
    # Detailed Requirements
    
