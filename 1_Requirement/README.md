@@ -12,7 +12,7 @@
    
    ## Features
    
-   -  Highly customizable system
+   - Highly customizable system
    - Reservation cancellation system
    - Trustworthy and reliable
    - Seamless, fast, and error-free online reservation facility to the users
@@ -29,89 +29,93 @@
    
   # SWOT Analysis
    ## Strengths
+   
    - Easy to reserv tickets
    - Access to a customer database
    - Clear positioning
    - Clearly defined and successful implementations 
   
-    ## Weaknesses 
-    - Strong existing competitors
-    - Many negative attitudes
-    - No distinct product features
+   ## Weaknesses 
+    
+   - Strong existing competitors
+   - Many negative attitudes
+   - No distinct product features
   
-    ## Opportunities 
-    - Add increased product augmentation
-    - Develop and implement a loyalty program
-    - Develop and implement a CRM program
-    - Work to generate cost efficiencies
+   ## Opportunities 
+    
+   - Add increased product augmentation
+   - Develop and implement a loyalty program
+   - Develop and implement a CRM program
+   - Work to generate cost efficiencies
 
-    ## Threats
-    - Poor service culture
-    - Dificult to handle bugs 
+   ## Threats
+    
+   - Poor service culture
+   - Dificult to handle bugs 
   
   
    
   # 4W's 1-H
    
-    ## Why
+   ## Why
     
-    - Flight Reservation Framework shoots up the deals of an carrier company and gives a competitive edge. 
-    - The essential reason for choosing flight reservation framework is to extend the number of bookings of the flight ticket.
+   - Flight Reservation Framework shoots up the deals of an carrier company and gives a competitive edge. 
+   - The essential reason for choosing flight reservation framework is to extend the number of bookings of the flight ticket.
  
-    ## What
-   
-    - An "aircraft reservation" could be a legitimate contract whereby an carrier embraces, 
+   ## What
+ 
+   - An "aircraft reservation" could be a legitimate contract whereby an carrier embraces, 
     in exchange for a certain sum of cash, to supply a situate to a particular traveler by plane on a 
     particular flight from one indicated air terminal to another.
   
-    ## When
+   ## When
   
-    -In the late 1950s, American Airlines wanted a system that would allow real-time access to flight details in all of its offices,
+   -In the late 1950s, American Airlines wanted a system that would allow real-time access to flight details in all of its offices,
     and the integration and automation of its   booking and ticketing processes.
     It introduced an electronic reservations system, Magnetronic Reservisor, in 1952.
    
-    ## Where
-  
-    - It can be used in any devices(laptop & PC) which has a preloaded application and it  will be usefull for all type of users.
+   ## Where
    
-    ## How
-  
+   - It can be used in any devices(laptop & PC) which has a preloaded application and it  will be usefull for all type of users.
+   
+   ## How
+   
    - Aircraft reservation frameworks join aircraft plans, admission taxes, traveler  reservations and ticket records.
    - An airline's coordinate dispersion works inside their possess reservation framework, as well as pushing out data to the GDS.
    
   # Benefits of Flight Reservation System
     
-    - Fully customized
-    - User-friendly interface
-    - Real-time update
-    - Easy cancellation process
+   - Fully customized
+   - User-friendly interface
+   - Real-time update  
+   - Easy cancellation process
    
   # Detailed Requirements
    
    - User Interfaces
-    - Hardware Interfaces
-    - Software Interfaces
+   - Hardware Interfaces
+   - Software Interfaces
    
   # High level Requirements
     
-    - Customer should be able to add there Name manually.
-    - Customer should be able to cancle the booked ticket.
-    - Customer should be able to access Number of bookings by using display feature
-    - Customer should be able to request reservation cancellation.
+   - Customer should be able to add there Name manually.
+   - Customer should be able to cancle the booked ticket.
+   - Customer should be able to access Number of bookings by using display feature
+   - Customer should be able to request reservation cancellation.
 
    
   # Low level Requirements
    
-    ## Performance Requirements
-    - System should be able to perform well in all platforms
+   ## Performance Requirements
+  - System should be able to perform well in all platforms
       
-    ## Maintainability Requirements 
-    - User should be displayed acceptance message within 5 seconds, when he/she submits
-    entered data to the system.
-    - Warning messages about entrance data out of defined standards must remain on the
+   ## Maintainability Requirements 
+   - User should be displayed acceptance message within 5 seconds, when he/she submits
+   - entered data to the system.
+   - Warning messages about entrance data out of defined standards must remain on the
     screen for 3 seconds.
     
-    ## Safety Requirements
+   ## Safety Requirements
    - System should include store data in multifile system
    - System should assure data integrity
 
