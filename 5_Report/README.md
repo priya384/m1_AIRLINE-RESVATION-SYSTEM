@@ -152,7 +152,21 @@
   Go through the files and access the application and the logic of the application and this will give better exprerience.
   
   ## Test Plan
-  [test plan](https://user-images.githubusercontent.com/62200264/143394312-ad4e0fb0-1c81-46bb-92da-235035e367be.jpg)
+  - It shows the plan of  working behind the project
+  - It contains the details for chooice for the customer.
+  - It contains the option to choose Reservation of tickets,cancaling the reservation,desplay of total reservatio.
+ (https://user-images.githubusercontent.com/62200264/143394312-ad4e0fb0-1c81-46bb-92da-235035e367be.jpg)
+ 
+ # Output
+ It consists of outputs of the application screen generated while execution.
+There are 4 files under this
+1 output generated at the starting of the application
+2 output generated at the Reservation of ticket, which accept or stores the customer details.
+3 output generated at Display of Total reservations, which displays the data available in Database.
+3 output generated at cancled reservation of the customer by using customer id, it shows the deleted in Database.
+
+
+ ENJOY THE AIRLINE RESERVATION APPLICATION 
 
   
 
