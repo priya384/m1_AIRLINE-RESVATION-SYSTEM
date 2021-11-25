@@ -137,14 +137,20 @@
    
   # Implementation contains
   ## src
-  - README.MD
+  - README.md
   - header.h
   - main.c
   - main.exe
   - multi records
+  ## test
+  - README.md
   
-  These are headder, main, test and unity files
+  These are headder, main, test and README  files
+  To work with Reservation project or to run go through the main.c file this consists of the required code for the actions.
+  To improve the application or to modify anything thing in this application go through all the files,
+  that will give you the logic and the methods fallowed for the project.
+  Go through the files and access the application and the logic of the application and this will give better exprerience.
+  
+  ## Test Plan
+  
 
-To play a game or to run go through the src.c file this consists of the required code for the actions.
-To improve the game or to modify anything thing for the game go through all the files that will give you the logic and the methods fallowed for the game.
-Go through the files and play the game and the logic of the game this will improves the IQ.
