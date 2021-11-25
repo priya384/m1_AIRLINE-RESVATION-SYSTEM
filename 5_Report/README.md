@@ -136,3 +136,15 @@
    - This is means of explaining the project in simple manner.
    
   # Implementation contains
+  ## src
+  - README.MD
+  - header.h
+  - main.c
+  - main.exe
+  - multi records
+  
+  These are headder, main, test and unity files
+
+To play a game or to run go through the src.c file this consists of the required code for the actions.
+To improve the game or to modify anything thing for the game go through all the files that will give you the logic and the methods fallowed for the game.
+Go through the files and play the game and the logic of the game this will improves the IQ.
