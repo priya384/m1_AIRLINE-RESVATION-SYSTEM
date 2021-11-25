@@ -12,7 +12,7 @@
    
    ## Features
    
-   - Highly customizable system
+   -  Highly customizable system
    - Reservation cancellation system
    - Trustworthy and reliable
    - Seamless, fast, and error-free online reservation facility to the users
